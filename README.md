@@ -9,7 +9,8 @@
 - Python  
 - HTML  
 - CSS  
-- Java  
+- Java
+- Django 
 
 ### 学習中の技術
 - JavaScript  
